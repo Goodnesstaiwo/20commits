@@ -5,3 +5,4 @@ Commit 4: Add content
 Commit 5: Update text
 Commit 6: Add more lines
 Commit 7: Formatting
+Commit 8: Add details
